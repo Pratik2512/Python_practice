@@ -1,0 +1,7 @@
+In Python you can store imformation in lists, dictionaries.
+In Python you can sought user input using input().
+In Python you can develop games.
+In Python you can run programms as many times as you want using loops.
+In Python you can import and edit files.
+In Python you can calculate tedious calculations.
+In Python you can manage data efficiently.
